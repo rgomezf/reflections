@@ -1,0 +1,3 @@
+What happens when you initialize a repository? Why do you need to do it?
+	in order to track files on the folder of development and to return to previous
+	commits.
