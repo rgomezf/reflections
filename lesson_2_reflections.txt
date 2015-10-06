@@ -1,3 +1,8 @@
 What happens when you initialize a repository? Why do you need to do it?
 	in order to track files on the folder of development and to return to previous
 	commits.
+
+How is the staging area different from the working directory and the repository? 
+What value do you think it offers?
+	is a bridge between the working directory and the repository.  what's in there
+	can be track it.
